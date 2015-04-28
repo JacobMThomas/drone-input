@@ -1,0 +1,26 @@
+{
+  "name": "node-drone-input",
+  "description": "Node.js for controling an AR Drone 2.0",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.8.1"
+  },
+  "dependencies": {
+    "joystick": "*",
+    "ar-drone": "*"
+  }
+}
